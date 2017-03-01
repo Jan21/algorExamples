@@ -24,17 +24,17 @@ Tímto si stáhnete zdrojové soubory pro tento předmět do vašeho počítače
 **jupyter notebook** 
 
 ###Klávesové zkratky pro jupyter notebook:
-A - vytvoří novou buňku na buňkou, která je právě označená.
-B - to samé, akorát, že buňku vytvoří pod.
-X - smaže buňku.
-Ctrl+Enter - spustí kód v buňce.
-H - otevře nápovědu s klávesovými zkratkami.
+**A** - vytvoří novou buňku na buňkou, která je právě označená.  
+**B** - to samé, akorát, že buňku vytvoří pod.  
+**X** - smaže buňku.  
+**Ctrl+Enter** - spustí kód v buňce.  
+**H** - otevře nápovědu s klávesovými zkratkami.  
 
 ###Příkazy pro git
-git clone http://....  -- stáhne repozitář s kódem do vašeho počítače.  
-git pull -- stáhne aktualizace kódu.  
-git add .  --Upozorní git o změnách v kódu.  
-git commit -m "popis změn" --uloží verzi kódu..do úvozovek napiště, jaké změny jste provedli.  
+**git clone http://....**  -- stáhne repozitář s kódem do vašeho počítače.  
+**git pull** -- stáhne aktualizace kódu.  
+**git add .**  --Upozorní git o změnách v kódu.  
+**git commit -m "popis změn"** --uloží verzi kódu..do úvozovek napiště, jaké změny jste provedli.  
 
 
 
